@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">KP 快递</string>
+	<string name="hello_world">전 세계 여러분 안녕하세요!</string>
+	<string name="action_settings">설정</string>
+	<string name="server_url">http://kp-express.com/uploads/app/update_2.xml</string>
+
+</resources>

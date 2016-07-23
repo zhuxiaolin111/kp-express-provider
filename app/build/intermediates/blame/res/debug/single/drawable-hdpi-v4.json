@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kpexpress150x150.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\kpexpress150x150.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_splash.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\bg_splash.png"
+    }
+]

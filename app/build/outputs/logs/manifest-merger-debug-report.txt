@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\Desktop\kp-express-provider1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:11:5-92
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:12:2-92
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:12:19-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:13:2-92
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:13:19-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:14:5-97
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:15:2-89
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:15:19-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:16:2-92
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:16:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:17:2-88
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:17:19-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:18:2-94
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:19:2-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:19:19-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:20:2-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:20:19-61
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:21:2-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:21:19-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:22:2-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:22:19-62
+application
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:25:5-57:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\Desktop\kp-express-provider1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:27:9-50
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.kp_express_provider.SplashActivity
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:31:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.kp_express_provider.MainActivity
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:40:13-41
+service#com.baidu.location.f
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:44:9-48:19
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:46:13-35
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:47:13-38
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:45:13-48
+service#com.baidu.trace.LBSTraceService
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:49:9-53:19
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:50:13-59
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:54:9-56:64
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:56:13-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\kp-express-provider1\app\src\main\AndroidManifest.xml:55:13-52
