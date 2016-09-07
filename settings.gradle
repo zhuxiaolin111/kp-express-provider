@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':xwalk_core_library-17.46.448.10-arm'

@@ -1,10 +1,54 @@
 [
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autofill_keyboard_accessory_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multi_field_time_picker_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autofill_keyboard_accessory_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\autofill_keyboard_accessory_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_picker_dialog_content.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\two_field_date_picker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_suggestion.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_picker_dialog_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\color_picker_dialog_title.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_picker_advanced_component.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\color_picker_advanced_component.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_picker_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\validation_message_bubble.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\layout\\validation_message_bubble.xml"
     }
 ]

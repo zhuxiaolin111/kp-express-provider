@@ -9,12 +9,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/xwalk_core_library-17.46.448.10-arm" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/xwalk_core_library-17.46.448.10-arm" />
           </set>
         </option>
       </GradleProjectSettings>

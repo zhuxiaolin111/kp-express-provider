@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xwalk_core_library-17.46.448.10-arm-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kp-express-provider1/xwalk_core_library-17.46.448.10-arm/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kp-express-provider1/xwalk_core_library-17.46.448.10-arm/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

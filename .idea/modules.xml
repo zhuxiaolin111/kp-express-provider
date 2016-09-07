@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/kp-express-provider1.iml" filepath="$PROJECT_DIR$/kp-express-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xwalk_core_library-17.46.448.10-arm/xwalk_core_library-17.46.448.10-arm.iml" filepath="$PROJECT_DIR$/xwalk_core_library-17.46.448.10-arm/xwalk_core_library-17.46.448.10-arm.iml" />
     </modules>
   </component>
 </project>

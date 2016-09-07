@@ -1,11 +1,43 @@
 [
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bubble_arrow_up.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_popup_background_up.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bubble.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_popup_background_down.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\verify_checkmark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\verify_checkmark.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification.png",
         "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_warning.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\ic_warning.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kpexpress150x150.png",
@@ -14,5 +46,13 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_splash.png",
         "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\src\\main\\res\\drawable-hdpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ondemand_overlay.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\color_picker_advanced_select_handle.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\kp-express-provider1\\app\\build\\intermediates\\exploded-aar\\kp-express-provider1\\xwalk_core_library-17.46.448.10-arm\\unspecified\\res\\drawable-hdpi\\color_picker_advanced_select_handle.png"
     }
 ]

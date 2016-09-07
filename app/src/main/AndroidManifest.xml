@@ -5,8 +5,16 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="19"
         android:targetSdkVersion="21" />
+    /*网络访问权限*/
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    /*磁盘访问权限*/
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 	
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
@@ -20,13 +28,16 @@
 	<uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 	<uses-permission android:name="android.permission.BLUETOOTH" />
-	
-    
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" ></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/kpexpress150x150"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+        android:hardwareAccelerated="true">
         <activity
             android:name=".SplashActivity"
             android:screenOrientation="portrait"
@@ -39,7 +50,8 @@
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
-            android:label="@string/app_name" >           
+            android:label="@string/app_name" >
+
         </activity>
         <service
             android:name="com.baidu.location.f"
